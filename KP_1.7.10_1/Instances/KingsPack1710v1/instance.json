@@ -1,0 +1,432 @@
+{
+  "name": "King\u0027s Pack 1.7.10 v1",
+  "pack": "SolitaryCraft",
+  "version": "8-Alpha11",
+  "minecraftVersion": "1.7.10",
+  "memory": 0,
+  "permgen": 0,
+  "jarOrder": "forge-1.7.10-10.13.0.1207-universal.jar",
+  "librariesNeeded": "launchwrapper-1.9.jar,asm-all-4.1.jar,akka-actor_2.11-2.3.3.jar,config-1.2.1.jar,scala-actors-migration_2.11-1.1.0.jar,scala-actors-migration_2.11-1.1.0.jar,scala-compiler-2.11.1.jar,scala-continuations-plugin_2.11.1-1.0.2.jar,scala-library-2.11.1.jar,scala-parser-combinators_2.11-1.0.1.jar,scala-reflect-2.11.1.jar,scala-swing_2.11-1.0.1.jar,scala-xml_2.11-1.0.2.jar,jopt-simple-4.5.jar,lzma-0.0.1.jar,realms-1.2.9.jar,guava-16.0.jar,commons-lang3-3.2.1.jar,authlib-1.5.13.jar,commons-compress-1.8.1.jar,httpclient-4.3.3.jar,commons-logging-1.1.3.jar,httpcore-4.3.2.jar,vecmath-1.3.1.jar,trove4j-3.0.3.jar,icu4j-core-mojang-51.2.jar,codecjorbis-20101023.jar,codecwav-20101023.jar,libraryjavasound-20101123.jar,librarylwjglopenal-20100824.jar,soundsystem-20120107.jar,netty-all-4.0.10.Final.jar,commons-io-2.4.jar,commons-codec-1.9.jar,jinput-2.0.5.jar,jutils-1.0.0.jar,gson-2.2.4.jar,log4j-api-2.0-beta9.jar,log4j-core-2.0-beta9.jar,lwjgl-2.9.1.jar,lwjgl_util-2.9.1.jar,twitch-5.16.jar",
+  "extraArguments": "--tweakClass\u003dcpw.mods.fml.common.launcher.FMLTweaker",
+  "minecraftArguments": "--username ${auth_player_name} --version ${version_name} --gameDir ${game_directory} --assetsDir ${assets_root} --assetIndex ${assets_index_name} --uuid ${auth_uuid} --accessToken ${auth_access_token} --userProperties ${user_properties} --userType ${user_type}",
+  "mainClass": "net.minecraft.launchwrapper.Launch",
+  "assets": "1.7.10",
+  "isConverted": true,
+  "isDev": false,
+  "isPlayable": true,
+  "newLaunchMethod": true,
+  "mods": [
+    {
+      "name": "CodeChickenLib",
+      "version": "1.1.1.101",
+      "optional": false,
+      "file": "CodeChickenLib-1.7.10-1.1.1.101-universal.jar",
+      "type": "dependency",
+      "description": "Needed for ChickenBones mods",
+      "disabled": false,
+      "userAdded": false
+    },
+    {
+      "name": "Minecraft Forge",
+      "version": "10.13.0.1207",
+      "optional": false,
+      "file": "forge-1.7.10-10.13.0.1207-universal.jar",
+      "type": "forge",
+      "description": "Minecraft Forge is a modding API used by alot of mods.",
+      "disabled": false,
+      "userAdded": false
+    },
+    {
+      "name": "CoFH Core",
+      "version": "[1.7.10]3.0.0B6-32",
+      "optional": false,
+      "file": "CoFHCore-[1.7.10]3.0.0B6-32.jar",
+      "type": "mods",
+      "description": "Framework required for all Team CoFH mods.",
+      "disabled": false,
+      "userAdded": false
+    },
+    {
+      "name": "CoFHLib",
+      "version": "1.0.0B6-26",
+      "optional": false,
+      "file": "CoFHLib-[1.7.10]1.0.0B6-26.jar",
+      "type": "mods",
+      "description": "A library for TE stuff",
+      "disabled": false,
+      "userAdded": false
+    },
+    {
+      "name": "CodeChickenCore",
+      "version": "1.0.3.26",
+      "optional": false,
+      "file": "CodeChickenCore-1.7.10-1.0.3.26-universal.jar",
+      "type": "mods",
+      "description": "Core library for all ChickenBones mods",
+      "disabled": false,
+      "userAdded": false
+    },
+    {
+      "name": "Custom Scripts",
+      "version": "1.0",
+      "optional": false,
+      "file": "scripts.zip",
+      "type": "extract",
+      "description": "Custom scripts written for MineTweaker and ModTweaker to help with a few recipe issues",
+      "disabled": false,
+      "userAdded": false
+    },
+    {
+      "name": "MineTweaker",
+      "version": "3.0.8B",
+      "optional": false,
+      "file": "MineTweaker3-1.7.10-3.0.8B.jar",
+      "type": "mods",
+      "description": "Make your own recipes and take recipes out at your leisure",
+      "disabled": false,
+      "userAdded": false
+    },
+    {
+      "name": "ModTweaker",
+      "version": "0.6-16",
+      "optional": false,
+      "file": "ModTweaker-1.7.X-0.6-16.jar",
+      "type": "mods",
+      "description": "An add-on for MineTweaker giving support to more mods",
+      "disabled": false,
+      "userAdded": false
+    },
+    {
+      "name": "NotEnoughItems",
+      "version": "1.0.3.56",
+      "optional": false,
+      "file": "NotEnoughItems-1.7.10-1.0.3.56-universal.jar",
+      "type": "mods",
+      "description": "Allows you to quickly and easily look up recipes and uses for any item in Minecraft included modded items. Also allows easy spawning of items and a range of one click utilities.",
+      "disabled": false,
+      "userAdded": false
+    },
+    {
+      "name": "OpenEye",
+      "version": "0.6",
+      "optional": false,
+      "file": "OpenEye-0.6-1.7.10.jar",
+      "type": "mods",
+      "description": "Our primary aim is to collect and share vital information to allow us to provide a set of tools to the community to make the experience easier, drama-free and more secure for both users and modders.",
+      "disabled": false,
+      "userAdded": false
+    },
+    {
+      "name": "Thermal Foundation",
+      "version": "1.0.0B3-8",
+      "optional": false,
+      "file": "ThermalFoundation-[1.7.10]1.0.0B3-8.jar",
+      "type": "mods",
+      "description": "World gen for Thermal Expansion",
+      "disabled": false,
+      "userAdded": false
+    },
+    {
+      "name": "Another Ore Bites The Dust",
+      "version": "2.2.4",
+      "optional": true,
+      "file": "AOBD-2.2.4.jar",
+      "type": "mods",
+      "description": "Creates dusts for all mods machines!",
+      "disabled": false,
+      "userAdded": false
+    },
+    {
+      "name": "Applied Energistics 2",
+      "version": "rv1-beta-27",
+      "optional": true,
+      "file": "appliedenergistics2-rv1-beta-27.jar",
+      "type": "mods",
+      "description": "The successor to AE1, the phenomenal digital logistics mod is back for 1.7.10!",
+      "disabled": false,
+      "userAdded": false
+    },
+    {
+      "name": "AsieLib",
+      "version": "0.2.12",
+      "optional": true,
+      "file": "AsieLib-1.7.10-0.2.12.jar",
+      "type": "mods",
+      "description": "Library for Chisel mod",
+      "disabled": false,
+      "userAdded": false
+    },
+    {
+      "name": "BuildCraft",
+      "version": "6.0.18",
+      "optional": true,
+      "file": "buildcraft-6.0.18.jar",
+      "type": "mods",
+      "description": "Buildcraft...what\u0027s more to say?",
+      "disabled": false,
+      "userAdded": false
+    },
+    {
+      "name": "Chisel",
+      "version": "1.5.6b",
+      "optional": true,
+      "file": "Chisel-1.7.10-1.5.6b.jar",
+      "type": "mods",
+      "description": "Adds a chisel item that lets you carve blocks like cobblestone or sandstone. Adds two new blocks to world generation: marble and limestone, which can be be carved and crafted into many various building materials.",
+      "disabled": false,
+      "userAdded": false
+    },
+    {
+      "name": "Pam\u0027s Clay Spawn",
+      "version": "1.7.2a",
+      "optional": true,
+      "file": "Pams Clay Spawn 1.7.2a.zip",
+      "type": "mods",
+      "description": "This mod adds in clay deposits underground with the frequency and density of iron deposits.",
+      "disabled": false,
+      "userAdded": false
+    },
+    {
+      "name": "Damage Indicators",
+      "version": "3.2.0",
+      "optional": true,
+      "file": "[1.7.10]DamageIndicatorsMod-3.2.0.jar",
+      "type": "mods",
+      "description": "Displays the damage you inflict on creatures, as well as current health, name and potion effects.",
+      "disabled": false,
+      "userAdded": false
+    },
+    {
+      "name": "Dynamic Lights",
+      "version": "1.7.10",
+      "optional": true,
+      "file": "DynamicLights-1.7.10.jar",
+      "type": "mods",
+      "description": "Having torches that give out a light source when holding them helps!",
+      "disabled": false,
+      "userAdded": false
+    },
+    {
+      "name": "Ender Storage",
+      "version": "1.4.5.23",
+      "optional": true,
+      "file": "EnderStorage-1.7.10-1.4.5.23-universal.jar",
+      "type": "mods",
+      "description": "EnderStorage is a mod that offers a means to store your items in The END, causing them to be everywhere and nowhere at the same time.  All EnderStorage makes use of the magic of colors to link storage with its little piece of The END.  Any EnderStorage with the same color code share inventory (even across dimensions).",
+      "disabled": false,
+      "userAdded": false
+    },
+    {
+      "name": "Forestry",
+      "version": "3.0.0.116",
+      "optional": true,
+      "file": "forestry_1.7.10-3.0.0.116.jar",
+      "type": "mods",
+      "description": "One of the oldest mods out there, grow trees, bees and automate them all!",
+      "disabled": false,
+      "userAdded": false
+    },
+    {
+      "name": "Hardcore Quest Mode",
+      "version": "4.2.1",
+      "optional": true,
+      "file": "HQM-The Journey (4.2.1).jar",
+      "type": "mods",
+      "description": "Adds an element of questing to minecraft",
+      "disabled": false,
+      "userAdded": false
+    },
+    {
+      "name": "IndustrialCraft 2",
+      "version": "2-2.2.636",
+      "optional": true,
+      "file": "industrialcraft-2-2.2.636-experimental.jar",
+      "type": "mods",
+      "description": "Industrial age themed expansion for Minecraft.",
+      "disabled": false,
+      "userAdded": false
+    },
+    {
+      "name": "Inventory Tweaks",
+      "version": "1.58-147",
+      "optional": true,
+      "file": "InventoryTweaks-1.58-147.jar",
+      "type": "mods",
+      "description": "Tweaks to inventory handling for ease of use, including sorting and automatic replacement of broken tools or exhausted stacks of items.",
+      "disabled": false,
+      "userAdded": false
+    },
+    {
+      "name": "IronChests",
+      "version": "6.0.41.729",
+      "optional": true,
+      "file": "ironchest-1.7.10-6.0.41.729-universal.jar",
+      "type": "mods",
+      "description": "Adds in different chests that take up a single block space but can hold a lot more!",
+      "disabled": false,
+      "userAdded": false
+    },
+    {
+      "name": "Mantle",
+      "version": "0.3.1",
+      "optional": true,
+      "file": "Mantle-mc1.7.10-0.3.1.jar",
+      "type": "mods",
+      "description": "An API for Tinker\u0027s Construct",
+      "disabled": false,
+      "userAdded": false
+    },
+    {
+      "name": "Mobius Core",
+      "version": "1.2.3",
+      "optional": true,
+      "file": "MobiusCore-1.2.3_1.7.10.jar",
+      "type": "mods",
+      "description": "A library needed for Opis",
+      "disabled": false,
+      "userAdded": false
+    },
+    {
+      "name": "Mouse Tweaks",
+      "version": "2.4.4",
+      "optional": true,
+      "file": "MouseTweaks-2.4.4-mc1.7.10.jar",
+      "type": "mods",
+      "description": "Allows a lot more mouse shortcuts",
+      "disabled": false,
+      "userAdded": false
+    },
+    {
+      "name": "NEI Plugins Unofficial",
+      "version": "1.1.0.8",
+      "optional": true,
+      "file": "NEIPlugins-MC1.7.10-1.1.0.8-unofficial.jar",
+      "type": "mods",
+      "description": "Adds mod integration into NEI",
+      "disabled": false,
+      "userAdded": false
+    },
+    {
+      "name": "Opis",
+      "version": "1.2.3",
+      "optional": true,
+      "file": "Opis-1.2.3_1.7.10.jar",
+      "type": "mods",
+      "description": "A server mod that allows you to see exactly where problems may arise",
+      "disabled": false,
+      "userAdded": false
+    },
+    {
+      "name": "Optifine",
+      "version": "HD_U_A4",
+      "optional": true,
+      "file": "OptiFine_1.7.10_HD_U_A4.jar",
+      "type": "mods",
+      "description": "Allows more customization of graphical options",
+      "disabled": false,
+      "userAdded": false
+    },
+    {
+      "name": "Project:Red Base",
+      "version": "4.4.8.47",
+      "optional": true,
+      "file": "ProjectRed-Base-1.7.10-4.4.8.47.jar",
+      "type": "mods",
+      "description": "A replacement for Red Power",
+      "disabled": false,
+      "userAdded": false
+    },
+    {
+      "name": "Project:Red Compat",
+      "version": "4.4.8.47",
+      "optional": true,
+      "file": "ProjectRed-Compat-1.7.10-4.4.8.47.jar",
+      "type": "mods",
+      "description": "A replacement for Red Power",
+      "disabled": false,
+      "userAdded": false
+    },
+    {
+      "name": "Project:Red Integration",
+      "version": "4.4.8.47",
+      "optional": true,
+      "file": "ProjectRed-Integration-1.7.10-4.4.8.47.jar",
+      "type": "mods",
+      "description": "A replacement for Red Power",
+      "disabled": false,
+      "userAdded": false
+    },
+    {
+      "name": "Railcraft",
+      "version": "9.2.2.0",
+      "optional": true,
+      "file": "Railcraft_1.7.10-9.2.2.0.jar",
+      "type": "mods",
+      "description": "Extends upon the rail network that minecraft touches on",
+      "disabled": false,
+      "userAdded": false
+    },
+    {
+      "name": "Thermal Expansion",
+      "version": "[1.7.10]4.0.0B5-13",
+      "optional": true,
+      "file": "ThermalExpansion-[1.7.10]4.0.0B5-13.jar",
+      "type": "mods",
+      "description": "Expanding Minecraft thermally - provides new options for automation and processing!",
+      "disabled": false,
+      "userAdded": false
+    },
+    {
+      "name": "Tinker\u0027s Construct",
+      "version": "1.6.0d40.1",
+      "optional": true,
+      "file": "TConstruct_mc1.7.10_1.6.0d40.1.jar",
+      "type": "mods",
+      "description": "Customizable tools right down to the rod",
+      "disabled": false,
+      "userAdded": false
+    },
+    {
+      "name": "Tinkers Tooltips",
+      "version": "1.1.10",
+      "optional": true,
+      "file": "TiCTooltips-mc1.7.10-1.1.10.jar",
+      "type": "mods",
+      "description": "Adds relevant stats to all tools and tool parts",
+      "disabled": false,
+      "userAdded": false
+    },
+    {
+      "name": "Waila",
+      "version": "1.5.3a",
+      "optional": true,
+      "file": "Waila-1.5.3a_1.7.10.jar",
+      "type": "mods",
+      "description": "A mod that tells you what you are looking at, with more info",
+      "disabled": false,
+      "userAdded": false
+    },
+    {
+      "name": "Waila Harvestability",
+      "version": "1.1.0",
+      "optional": true,
+      "file": "WailaHarvestability-mc1.7.x-1.1.0.jar",
+      "type": "mods",
+      "description": "Shows what you can ahrvest with the tools you have in hand!",
+      "disabled": false,
+      "userAdded": false
+    },
+    {
+      "name": "ComputerCraft1.65.jar",
+      "version": "Custom",
+      "optional": true,
+      "file": "ComputerCraft1.65.jar",
+      "type": "mods",
+      "disabled": false,
+      "userAdded": true
+    }
+  ],
+  "ignoredUpdates": [
+    "8-BETA-1"
+  ]
+}

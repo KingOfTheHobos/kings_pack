@@ -1,0 +1,62 @@
+[
+    {
+        "name": "AuthLib",
+        "filename": "authlib-1.5.17.jar",
+        "url": "https://libraries.minecraft.net/com/mojang/authlib/1.5.17/authlib-1.5.17.jar",
+        "version": "1.5.17",
+        "md5": "f7b921d4f57a044a2cef67bea5e843f6",
+        "atlauncherDownload": false,
+        "autoLoad": true,
+        "exitOnFail": true
+    },
+    {
+        "name": "Log4J API",
+        "filename": "log4j-api-2.0-beta9.jar",
+        "url": "https://libraries.minecraft.net/org/apache/logging/log4j/log4j-api/2.0-beta9/log4j-api-2.0-beta9.jar",
+        "version": "2.0-beta9",
+        "md5": "243049406066e313938e168335069d32",
+        "atlauncherDownload": false,
+        "autoLoad": true,
+        "exitOnFail": true
+    },
+    {
+        "name": "Log4J Core",
+        "filename": "log4j-core-2.0-beta9.jar",
+        "url": "https://libraries.minecraft.net/org/apache/logging/log4j/log4j-core/2.0-beta9/log4j-core-2.0-beta9.jar",
+        "version": "2.0-beta9",
+        "md5": "152ecb3ce094ac5bc9ea39d6122e2814",
+        "atlauncherDownload": false,
+        "autoLoad": true,
+        "exitOnFail": true
+    },
+    {
+        "name": "Guava",
+        "filename": "guava-17.0.jar",
+        "url": "https://libraries.minecraft.net/com/google/guava/guava/17.0/guava-17.0.jar",
+        "version": "17.0",
+        "md5": "89fef81c2adfa9b50a64ed5cd5d8c155",
+        "atlauncherDownload": false,
+        "autoLoad": true,
+        "exitOnFail": true
+    },
+    {
+        "name": "Commons IO",
+        "filename": "commons-io-2.4.jar",
+        "url": "https://libraries.minecraft.net/commons-io/commons-io/2.4/commons-io-2.4.jar",
+        "version": "2.4",
+        "md5": "7f97854dc04c119d461fed14f5d8bb96",
+        "atlauncherDownload": false,
+        "autoLoad": true,
+        "exitOnFail": true
+    },
+    {
+        "name": "Commons Lang",
+        "filename": "commons-lang3-3.3.2.jar",
+        "url": "https://libraries.minecraft.net/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2.jar",
+        "version": "3.3.2",
+        "md5": "3128bf75a2549ebe38663401191bacab",
+        "atlauncherDownload": false,
+        "autoLoad": true,
+        "exitOnFail": true
+    }
+]

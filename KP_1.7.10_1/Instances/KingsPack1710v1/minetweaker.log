@@ -1,0 +1,33 @@
+INFO: Adding minetweaker command mfr
+ERROR: mutton.zs:7: Could not resolve <ganyssurface : mutton_cooked>
+ERROR: mutton.zs:8: Could not resolve <haggismod : cooked_mutton>
+ERROR: mutton.zs:9: Could not resolve <ganyssurface : mutton_cooked>
+ERROR: mutton.zs:10: Could not resolve <haggismod : cooked_mutton>
+ERROR: mutton.zs:11: Could not resolve <ganyssurface : mutton_raw>
+ERROR: mutton.zs:12: Could not resolve <haggismod : raw_mutton>
+ERROR: mutton.zs:13: Could not resolve <ganyssurface : mutton_raw>
+ERROR: mutton.zs:14: Could not resolve <haggismod : raw_mutton>
+ERROR: mutton.zs:17: Could not resolve <haggismod : raw_haggis>
+ERROR: mutton.zs:18: Could not resolve <haggismod : raw_haggis>
+ERROR: mutton.zs:18: Could not resolve <haggismod : sheep_stomach>
+ERROR: mutton.zs:19: Could not resolve <haggismod : raw_haggis>
+ERROR: mutton.zs:19: Could not resolve <haggismod : sheep_stomach>
+ERROR: Error executing mutton.zs: null
+ERROR: exnihilo.zs:13: Could not resolve <exnihilo : iron_dust>
+ERROR: exnihilo.zs:14: Could not resolve <exnihilo : gold_dust>
+ERROR: exnihilo.zs:15: Could not resolve <exnihilo : copper_dust>
+ERROR: exnihilo.zs:16: Could not resolve <exnihilo : tin_dust>
+ERROR: exnihilo.zs:17: Could not resolve <exnihilo : silver_dust>
+ERROR: exnihilo.zs:18: Could not resolve <exnihilo : lead_dust>
+ERROR: exnihilo.zs:19: Could not resolve <exnihilo : nickel_dust>
+ERROR: exnihilo.zs:20: Could not resolve <exnihilo : platinum_dust>
+ERROR: exnihilo.zs:21: Could not resolve <exnihilo : aluminum_dust>
+ERROR: exnihilo.zs:22: Could not resolve <exnihilo : aluminum_dust>
+ERROR: exnihilo.zs:23: Could not resolve <exnihilo : osmium_dust>
+ERROR: fixes.zs:3: Could not resolve <Natura : barleyFood : *>
+ERROR: fixes.zs:4: Could not resolve <Natura : barleyFood : 1>
+ERROR: fixes.zs:5: Could not resolve <Natura : barleyFood : 2>
+ERROR: fixes.zs:9: Could not resolve <Natura : barleyFood : 1>
+ERROR: fixes.zs:10: Could not resolve <Natura : barleyFood : 2>
+INFO: Removing 156 furnace recipes
+ERROR: Error executing fixes.zs: null

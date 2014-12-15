@@ -1,0 +1,23 @@
+val oreIron = <ore:oreIron>;
+val oreGold = <ore:oreGold>;
+val oreCopper = <ore:oreCopper>;
+val oreTin = <ore:oreTin>;
+val oreSilver = <ore:oreSilver>;
+val oreLead = <ore:oreLead>;
+val oreNickel = <ore:oreNickel>;
+val orePlatinum = <ore:orePlatinum>;
+val oreAluminum = <ore:oreAluminum>;
+val oreAluminium = <ore:oreAluminium>;
+val oreOsmium = <ore:oreOsmium>;
+
+oreIron.add(<exnihilo:iron_dust>);
+oreGold.add(<exnihilo:gold_dust>);
+oreCopper.add(<exnihilo:copper_dust>);
+oreTin.add(<exnihilo:tin_dust>);
+oreSilver.add(<exnihilo:silver_dust>);
+oreLead.add(<exnihilo:lead_dust>);
+oreNickel.add(<exnihilo:nickel_dust>);
+orePlatinum.add(<exnihilo:platinum_dust>);
+oreAluminum.add(<exnihilo:aluminum_dust>);
+oreAluminium.add(<exnihilo:aluminum_dust>);
+oreOsmium.add(<exnihilo:osmium_dust>);
