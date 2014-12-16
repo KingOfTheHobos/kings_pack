@@ -77,26 +77,6 @@
       "userAdded": false
     },
     {
-      "name": "MineTweaker",
-      "version": "3.0.8B",
-      "optional": false,
-      "file": "MineTweaker3-1.7.10-3.0.8B.jar",
-      "type": "mods",
-      "description": "Make your own recipes and take recipes out at your leisure",
-      "disabled": false,
-      "userAdded": false
-    },
-    {
-      "name": "ModTweaker",
-      "version": "0.6-16",
-      "optional": false,
-      "file": "ModTweaker-1.7.X-0.6-16.jar",
-      "type": "mods",
-      "description": "An add-on for MineTweaker giving support to more mods",
-      "disabled": false,
-      "userAdded": false
-    },
-    {
       "name": "NotEnoughItems",
       "version": "1.0.3.56",
       "optional": false,
@@ -337,16 +317,6 @@
       "userAdded": false
     },
     {
-      "name": "Project:Red Compat",
-      "version": "4.4.8.47",
-      "optional": true,
-      "file": "ProjectRed-Compat-1.7.10-4.4.8.47.jar",
-      "type": "mods",
-      "description": "A replacement for Red Power",
-      "disabled": false,
-      "userAdded": false
-    },
-    {
       "name": "Project:Red Integration",
       "version": "4.4.8.47",
       "optional": true,
@@ -421,6 +391,15 @@
       "version": "Custom",
       "optional": true,
       "file": "ComputerCraft1.65.jar",
+      "type": "mods",
+      "disabled": false,
+      "userAdded": true
+    },
+    {
+      "name": "Jabba-1.1.4_1.7.10.jar",
+      "version": "Custom",
+      "optional": true,
+      "file": "Jabba-1.1.4_1.7.10.jar",
       "type": "mods",
       "disabled": false,
       "userAdded": true
