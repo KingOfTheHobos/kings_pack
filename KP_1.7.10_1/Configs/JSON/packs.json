@@ -611,14 +611,6 @@
                 "isDev": false
             },
             {
-                "version": "3.1.1.0-EXP-MAIN",
-                "minecraft": "1.7.10",
-                "hasJson": true,
-                "canUpdate": true,
-                "isRecommended": true,
-                "isDev": false
-            },
-            {
                 "version": "3.1.0.2-EXP-MAIN",
                 "minecraft": "1.7.10",
                 "hasJson": true,
@@ -2925,7 +2917,7 @@
             {
                 "version": "2.20.0",
                 "minecraft": "1.7.10",
-                "hash": "69a91867e03869d50023e5aaa603c775",
+                "hash": "7f79da6e61fa9bfbd843f08f8334910b",
                 "hasJson": false,
                 "isDev": true
             },
@@ -15321,6 +15313,13 @@
         "type": "private",
         "devVersions": [
             {
+                "version": "dev_B_2.1.1",
+                "minecraft": "1.7.10",
+                "hash": "046ceae1075c6c83ccd68ee41dd6eb46",
+                "hasJson": false,
+                "isDev": true
+            },
+            {
                 "version": "dev_B_2.1.0Fix",
                 "minecraft": "1.7.10",
                 "hash": "b898d047f0a2b549d795cbe30997e811",
@@ -15420,6 +15419,14 @@
             }
         ],
         "versions": [
+            {
+                "version": "2.1.1",
+                "minecraft": "1.7.10",
+                "hasJson": true,
+                "canUpdate": true,
+                "isRecommended": true,
+                "isDev": false
+            },
             {
                 "version": "2.1.0Fix",
                 "minecraft": "1.7.10",
