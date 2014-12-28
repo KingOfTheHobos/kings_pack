@@ -297,7 +297,7 @@
     },
     {
         "id": 6,
-        "position": 26,
+        "position": 28,
         "name": "Ye Olde Times",
         "type": "public",
         "devVersions": [
@@ -561,7 +561,7 @@
     },
     {
         "id": 8,
-        "position": 4,
+        "position": 5,
         "name": "Resonant Rise",
         "type": "public",
         "devVersions": [
@@ -575,14 +575,14 @@
             {
                 "version": "dev-EXP",
                 "minecraft": "1.7.10",
-                "hash": "87ab70f8dfa5fbb2fb81e2d9c7ba88bc",
+                "hash": "8a358e1ffe5995d340ffb42c99a48816",
                 "hasJson": false,
                 "isDev": true
             },
             {
                 "version": "dev-v3",
                 "minecraft": "1.7.10",
-                "hash": "074f21bf423824c3098f41ffe2468104",
+                "hash": "284e765f30c6673df58d65fde8d06c12",
                 "hasJson": false,
                 "isDev": true
             },
@@ -596,15 +596,7 @@
         ],
         "versions": [
             {
-                "version": "3.1.1.2-EXP-MAIN",
-                "minecraft": "1.7.10",
-                "hasJson": true,
-                "canUpdate": true,
-                "isRecommended": true,
-                "isDev": false
-            },
-            {
-                "version": "3.1.1.1-EXP-MAIN",
+                "version": "3.2.0.0-EXP-MAIN",
                 "minecraft": "1.7.10",
                 "hasJson": true,
                 "canUpdate": true,
@@ -632,13 +624,13 @@
         "leaderboards": true,
         "logging": true,
         "crashReports": false,
-        "description": "Delve through the extended history of Minecraftia in Resonant Rise 3!\r\n\r\nWith the new Era System you can select a lightweight yet deep set of mods revolving around a specific period in history. Visit the time of cavemen in the Primordial Era, dive into magical research in the Medieval Era, or just stick to the present-day Information Era and build an automated factory so you never need to mine again!\r\n\r\nThere will be six periods of history to choose from in the first full release!\r\n\r\nFor those of you after a more traditional experience though, check out our Eternity sandbox modes, where the Eras are squashed together to bring you the widest selection of mods from across the modding community, some well-known mods, some deserving of more attention!\r\n\r\nRequires Java 7 Update 71 or newer to run. Built for Minecraft 1.7.10 with Forge #1231.",
+        "description": "Delve through the extended history of Minecraftia in Resonant Rise 3!\r\n\r\nWith the new Era System you can select a lightweight yet deep set of mods revolving around a specific period in history. Visit the time of cavemen in the Primordial Era, dive into magical research in the Medieval Era, or just stick to the present-day Information Era and build an automated factory so you never need to mine again!\r\n\r\nThere will be six periods of history to choose from in the first full release!\r\n\r\nFor those of you after a more traditional experience though, check out our Eternity sandbox modes, where the Eras are squashed together to bring you the widest selection of mods from across the modding community, some well-known mods, some deserving of more attention!\r\n\r\nRequires Java 7 Update 71 or newer to run. Built for Minecraft 1.7.10 with Forge #1272.",
         "supportURL": "http://www.resonant-rise.com/support.html",
         "websiteURL": "http://resonant-rise.com/"
     },
     {
         "id": 9,
-        "position": 61,
+        "position": 79,
         "name": "Redwood Server",
         "type": "private",
         "devVersions": [
@@ -818,7 +810,7 @@
     },
     {
         "id": 11,
-        "position": 72,
+        "position": 43,
         "name": "Eva's Server",
         "type": "private",
         "devVersions": [
@@ -1138,7 +1130,7 @@
     },
     {
         "id": 13,
-        "position": 123,
+        "position": 124,
         "name": "The Adventures of Toff and Shed",
         "type": "public",
         "devVersions": [
@@ -1161,7 +1153,7 @@
     },
     {
         "id": 14,
-        "position": 27,
+        "position": 29,
         "name": "Solitary Asylum Map Pack",
         "type": "public",
         "devVersions": [
@@ -1209,7 +1201,7 @@
     },
     {
         "id": 16,
-        "position": 46,
+        "position": 59,
         "name": "Minecraft Unabridged",
         "type": "private",
         "devVersions": [
@@ -1647,7 +1639,7 @@
     },
     {
         "id": 19,
-        "position": 75,
+        "position": 76,
         "name": "CookCraft",
         "type": "private",
         "devVersions": [
@@ -1911,7 +1903,7 @@
     },
     {
         "id": 21,
-        "position": 121,
+        "position": 122,
         "name": "Hostile Thon ModPack",
         "type": "semipublic",
         "code": "db41a42c606df9226b6ba3362561b181",
@@ -1960,7 +1952,7 @@
     },
     {
         "id": 25,
-        "position": 54,
+        "position": 56,
         "name": "BakermanLP",
         "type": "semipublic",
         "code": "f4de1fd551abf6cdb224888157b7282d",
@@ -1985,7 +1977,7 @@
     },
     {
         "id": 26,
-        "position": 130,
+        "position": 133,
         "name": "T-P-L Server Pack",
         "type": "private",
         "devVersions": [
@@ -2392,7 +2384,7 @@
     },
     {
         "id": 29,
-        "position": 80,
+        "position": 78,
         "name": "TechNode",
         "type": "semipublic",
         "code": "4fe8b4bd1cf64e31d3af52069876a742",
@@ -2911,10 +2903,17 @@
     },
     {
         "id": 32,
-        "position": 59,
+        "position": 46,
         "name": "KingForge",
         "type": "private",
         "devVersions": [
+            {
+                "version": "dev-2.20.1",
+                "minecraft": "1.7.10",
+                "hash": "06dba75c4e6a6e8e9d03397318b7539b",
+                "hasJson": false,
+                "isDev": true
+            },
             {
                 "version": "2.20.0",
                 "minecraft": "1.7.10",
@@ -2949,57 +2948,23 @@
                 "hash": "eef937b233b55338710232e64b51854d",
                 "hasJson": false,
                 "isDev": true
-            },
-            {
-                "version": "dev-1.3.0",
-                "minecraft": "1.6.4",
-                "hash": "a8bb56695730935920798b91dfe44910",
-                "hasJson": false,
-                "isDev": true
-            },
-            {
-                "version": "dev-1.2.0",
-                "minecraft": "1.6.4",
-                "hash": "e7cbb94546a569e1848a1357b4fa2043",
-                "hasJson": false,
-                "isDev": true
-            },
-            {
-                "version": "dev-1.1.0",
-                "minecraft": "1.6.4",
-                "hash": "9a61729bf3ec9a6680227ac604d4c79e",
-                "hasJson": false,
-                "isDev": true
-            },
-            {
-                "version": "dev-1.0.3-Lite",
-                "minecraft": "1.6.4",
-                "hash": "101279edacab0eaaa06b23a405fb3235",
-                "hasJson": false,
-                "isDev": true
-            },
-            {
-                "version": "dev-1.0.3",
-                "minecraft": "1.6.4",
-                "hash": "15871133484ab52695308213bf48bed9",
-                "hasJson": false,
-                "isDev": true
-            },
-            {
-                "version": "dev-remade-1.6.4",
-                "minecraft": "1.6.4",
-                "hash": "764990ecc12ac7f78be207de5f9fb735",
-                "hasJson": false,
-                "isDev": true
             }
         ],
         "versions": [
             {
-                "version": "2.20.0.1",
+                "version": "2.20.1",
                 "minecraft": "1.7.10",
                 "hasJson": true,
                 "canUpdate": true,
                 "isRecommended": true,
+                "isDev": false
+            },
+            {
+                "version": "2.20.0.1",
+                "minecraft": "1.7.10",
+                "hasJson": true,
+                "canUpdate": false,
+                "isRecommended": false,
                 "isDev": false
             },
             {
@@ -3027,142 +2992,6 @@
                 "isDev": false
             },
             {
-                "version": "2.3.5.2",
-                "minecraft": "1.7.2",
-                "hasJson": true,
-                "canUpdate": false,
-                "isRecommended": false,
-                "isDev": false
-            },
-            {
-                "version": "2.3.5",
-                "minecraft": "1.7.2",
-                "hasJson": true,
-                "canUpdate": false,
-                "isRecommended": false,
-                "isDev": false
-            },
-            {
-                "version": "2.3.4",
-                "minecraft": "1.7.2",
-                "hasJson": true,
-                "canUpdate": false,
-                "isRecommended": false,
-                "isDev": false
-            },
-            {
-                "version": "2.3.3",
-                "minecraft": "1.7.2",
-                "hasJson": true,
-                "canUpdate": false,
-                "isRecommended": false,
-                "isDev": false
-            },
-            {
-                "version": "2.3.2",
-                "minecraft": "1.7.2",
-                "hasJson": true,
-                "canUpdate": false,
-                "isRecommended": false,
-                "isDev": false
-            },
-            {
-                "version": "2.3.1",
-                "minecraft": "1.7.2",
-                "hasJson": true,
-                "canUpdate": false,
-                "isRecommended": false,
-                "isDev": false
-            },
-            {
-                "version": "2.3.0",
-                "minecraft": "1.7.2",
-                "hasJson": true,
-                "canUpdate": false,
-                "isRecommended": false,
-                "isDev": false
-            },
-            {
-                "version": "2.2.1",
-                "minecraft": "1.7.2",
-                "hasJson": true,
-                "canUpdate": false,
-                "isRecommended": false,
-                "isDev": false
-            },
-            {
-                "version": "2.2.0",
-                "minecraft": "1.7.2",
-                "hasJson": true,
-                "canUpdate": false,
-                "isRecommended": false,
-                "isDev": false
-            },
-            {
-                "version": "2.1.3",
-                "minecraft": "1.7.2",
-                "hasJson": true,
-                "canUpdate": false,
-                "isRecommended": false,
-                "isDev": false
-            },
-            {
-                "version": "2.1.2",
-                "minecraft": "1.7.2",
-                "hasJson": true,
-                "canUpdate": false,
-                "isRecommended": false,
-                "isDev": false
-            },
-            {
-                "version": "2.1.1",
-                "minecraft": "1.7.2",
-                "hasJson": true,
-                "canUpdate": false,
-                "isRecommended": false,
-                "isDev": false
-            },
-            {
-                "version": "2.1.0",
-                "minecraft": "1.7.2",
-                "hasJson": true,
-                "canUpdate": false,
-                "isRecommended": false,
-                "isDev": false
-            },
-            {
-                "version": "2.0.3",
-                "minecraft": "1.7.2",
-                "hasJson": true,
-                "canUpdate": false,
-                "isRecommended": false,
-                "isDev": false
-            },
-            {
-                "version": "2.0.2",
-                "minecraft": "1.7.2",
-                "hasJson": true,
-                "canUpdate": false,
-                "isRecommended": false,
-                "isDev": false
-            },
-            {
-                "version": "2.0.1",
-                "minecraft": "1.7.2",
-                "hasJson": true,
-                "canUpdate": false,
-                "isRecommended": false,
-                "isDev": false
-            },
-            {
-                "version": "2.0.0",
-                "minecraft": "1.7.2",
-                "hasJson": true,
-                "canUpdate": false,
-                "isRecommended": false,
-                "isDev": false
-            },
-            {
                 "version": "1.4.3",
                 "minecraft": "1.6.4",
                 "hasJson": true,
@@ -3181,7 +3010,7 @@
     },
     {
         "id": 35,
-        "position": 140,
+        "position": 144,
         "name": "Creatik",
         "type": "semipublic",
         "code": "bfc5f6b7c8e24534a3d1f1986cd3a833",
@@ -3230,7 +3059,7 @@
     },
     {
         "id": 37,
-        "position": 142,
+        "position": 145,
         "name": "Punchcraft ModPack",
         "type": "semipublic",
         "code": "4cde8bba040a53e9fe3ccc877d766987",
@@ -3254,7 +3083,7 @@
     },
     {
         "id": 38,
-        "position": 64,
+        "position": 147,
         "name": "BGMCPack",
         "type": "semipublic",
         "code": "4205e0307409435293107cf95013684c",
@@ -3605,21 +3434,21 @@
     },
     {
         "id": 39,
-        "position": 74,
+        "position": 51,
         "name": "Aeternum",
         "type": "private",
         "devVersions": [
             {
                 "version": "dev",
                 "minecraft": "1.7.10",
-                "hash": "b41dd08799649155475384209634dd80",
+                "hash": "c030e24a74b5032c1e32192cfd3b3b19",
                 "hasJson": false,
                 "isDev": true
             }
         ],
         "versions": [
             {
-                "version": "v0.2.2-A",
+                "version": "v0.3.1-B",
                 "minecraft": "1.7.10",
                 "hasJson": true,
                 "canUpdate": true,
@@ -3627,10 +3456,26 @@
                 "isDev": false
             },
             {
-                "version": "v0.2.1-A",
+                "version": "v0.3.0-B",
                 "minecraft": "1.7.10",
                 "hasJson": true,
                 "canUpdate": true,
+                "isRecommended": false,
+                "isDev": false
+            },
+            {
+                "version": "v0.2.2-A",
+                "minecraft": "1.7.10",
+                "hasJson": true,
+                "canUpdate": false,
+                "isRecommended": false,
+                "isDev": false
+            },
+            {
+                "version": "v0.2.1-A",
+                "minecraft": "1.7.10",
+                "hasJson": true,
+                "canUpdate": false,
                 "isRecommended": false,
                 "isDev": false
             },
@@ -3663,13 +3508,13 @@
         "leaderboards": true,
         "logging": true,
         "crashReports": false,
-        "description": "!!!UNSTABLE ALPHA PACK!!!\n\nThere is no code for this pack. It is currently set to private as it is still being built and balanced. I am looking for testers. If you would like to test it, please tweet me @TigerzFangz.\n\n##Check the change logs BEFORE updating!##\n\nTo do this, go to the \"Packs\" tab and find this mod pack. Click on the \"Website\" button below the description and scroll to the bottom of the page. Then select the version number that you want to see the change log for.\n\nThis pack is currently a custom mod pack being developed by TigersFangs. It is subject to change frequently, and some times drastically. I am still tuning, organizing, and feeling out this mod pack. Please be aware that worlds may or may not be transferable between version updates. I do the absolute best that I can to make sure that ID's stay the same forward and backward, but not all mods in the pack today are guaranteed to be there tomorrow.\n\nSAVES WILL BE BROKEN AT SOME POINT! If you want to avoid this, then do not download an update without first going to the website and checking the version change log at the bottom of the page.\n\nIf you have any questions, tweet me @TigerzFangz",
+        "description": "!!!SEMI-STABLE BETA PACK!!!\r\n\r\nThere is no code for this pack. It is currently set to private as it is still being built and balanced. I am looking for testers. If you would like to test it, please tweet me @TigerzFangz.\r\n\r\n##Check the change logs BEFORE updating!##\r\n\r\nTo do this, go to the \"Packs\" tab and find this mod pack. Click on the \"Website\" button below the description and scroll to the bottom of the page. Then select the version number that you want to see the change log for.\r\n\r\nThis pack is currently a custom mod pack being developed by TigersFangs. It is subject to change frequently, and some times drastically. I am still tuning, organizing, and feeling out this mod pack. Please be aware that worlds may or may not be transferable between version updates. I do the absolute best that I can to make sure that ID's stay the same forward and backward, but not all mods in the pack today are guaranteed to be there tomorrow.\r\n\r\nSAVES WILL BE BROKEN AT SOME POINT! If you want to avoid this, then do not download an update without first going to the website and checking the version change log at the bottom of the page.\r\n\r\nIf you have any questions, tweet me @TigerzFangz",
         "supportURL": "http://www.atlauncher.com/irc/",
         "websiteURL": "http://www.atlauncher.com/packs/Condemned/"
     },
     {
         "id": 41,
-        "position": 144,
+        "position": 141,
         "name": "BastionPack",
         "type": "private",
         "devVersions": [
@@ -3692,7 +3537,7 @@
     },
     {
         "id": 42,
-        "position": 31,
+        "position": 26,
         "name": "Sizzlecraft",
         "type": "public",
         "devVersions": [
@@ -3732,7 +3577,7 @@
     },
     {
         "id": 43,
-        "position": 138,
+        "position": 135,
         "name": "Tecraft",
         "type": "private",
         "devVersions": [
@@ -3895,7 +3740,7 @@
     },
     {
         "id": 45,
-        "position": 133,
+        "position": 134,
         "name": "Deejay's Private Server Pack",
         "type": "private",
         "devVersions": [
@@ -3925,7 +3770,7 @@
     },
     {
         "id": 46,
-        "position": 50,
+        "position": 47,
         "name": "FrogTEK",
         "type": "semipublic",
         "code": "3a7bedf9ce147172db63ac233bf7f598",
@@ -4100,7 +3945,7 @@
     },
     {
         "id": 47,
-        "position": 132,
+        "position": 137,
         "name": "LeafreCraft",
         "type": "private",
         "devVersions": [
@@ -4284,7 +4129,7 @@
     },
     {
         "id": 48,
-        "position": 134,
+        "position": 139,
         "name": "Techymon",
         "type": "private",
         "devVersions": [
@@ -4342,14 +4187,14 @@
     },
     {
         "id": 49,
-        "position": 3,
+        "position": 4,
         "name": "The MadPack",
         "type": "public",
         "devVersions": [
             {
                 "version": "devMadPack21710",
                 "minecraft": "1.7.10",
-                "hash": "5f62b5407bc4cbd667aff5a9313d07f8",
+                "hash": "d0a3fb66fdbe2b8f02ee57dcb931019b",
                 "hasJson": false,
                 "isDev": true
             }
@@ -4382,7 +4227,7 @@
     },
     {
         "id": 50,
-        "position": 81,
+        "position": 57,
         "name": "StellarCraft",
         "type": "semipublic",
         "code": "74db22087956079492cacd7eccc8a1f3",
@@ -4757,14 +4602,14 @@
     },
     {
         "id": 53,
-        "position": 32,
+        "position": 31,
         "name": "Silvania: Ultimatum",
         "type": "public",
         "devVersions": [
             {
                 "version": "dev-1.7.10",
                 "minecraft": "1.7.10",
-                "hash": "46405c7d2f750f69deb6ff733b55ae0a",
+                "hash": "386f65752af60a03838c546c0e4c5bba",
                 "hasJson": false,
                 "isDev": true
             },
@@ -5148,7 +4993,7 @@
     },
     {
         "id": 54,
-        "position": 109,
+        "position": 98,
         "name": "SkyRoot",
         "type": "private",
         "devVersions": [
@@ -5291,7 +5136,7 @@
     },
     {
         "id": 55,
-        "position": 95,
+        "position": 99,
         "name": "DynamiCraft",
         "type": "semipublic",
         "code": "3bdf1a55680e976272f7d1af5c0b3d28",
@@ -5340,7 +5185,7 @@
     },
     {
         "id": 56,
-        "position": 96,
+        "position": 101,
         "name": "NuttyGaming Pack",
         "type": "private",
         "devVersions": [
@@ -5460,7 +5305,7 @@
     },
     {
         "id": 57,
-        "position": 63,
+        "position": 100,
         "name": "LunaCraft",
         "type": "private",
         "devVersions": [
@@ -5499,7 +5344,7 @@
     },
     {
         "id": 60,
-        "position": 99,
+        "position": 95,
         "name": "DumbleCraft",
         "type": "private",
         "devVersions": [
@@ -5522,7 +5367,7 @@
     },
     {
         "id": 61,
-        "position": 98,
+        "position": 80,
         "name": "Awakening",
         "type": "semipublic",
         "code": "ae2141ceba5fba78fa2b6e99c390839f",
@@ -5560,7 +5405,7 @@
     },
     {
         "id": 62,
-        "position": 93,
+        "position": 89,
         "name": "Metromine",
         "type": "private",
         "devVersions": [
@@ -5875,7 +5720,7 @@
     },
     {
         "id": 65,
-        "position": 92,
+        "position": 90,
         "name": "Mission Control",
         "type": "private",
         "devVersions": [
@@ -5959,7 +5804,7 @@
     },
     {
         "id": 67,
-        "position": 88,
+        "position": 91,
         "name": "DreamCraft",
         "type": "private",
         "devVersions": [
@@ -6006,7 +5851,7 @@
     },
     {
         "id": 68,
-        "position": 49,
+        "position": 65,
         "name": "OverLoad",
         "type": "semipublic",
         "code": "1cf9f8be06cdce86bfde06213124c08b",
@@ -6054,7 +5899,7 @@
     },
     {
         "id": 69,
-        "position": 58,
+        "position": 52,
         "name": "Skullcracker Pack ",
         "type": "semipublic",
         "code": "b22baed6a035daafa0cac780c4ec9ee3",
@@ -6062,7 +5907,7 @@
             {
                 "version": "dev3.0",
                 "minecraft": "1.7.10",
-                "hash": "c42110d858e7fb065a0440bdaa1e6bdb",
+                "hash": "075193b51ea2c5481fe2c3c20ac101db",
                 "hasJson": false,
                 "isDev": true
             },
@@ -6110,6 +5955,14 @@
             }
         ],
         "versions": [
+            {
+                "version": "3.2",
+                "minecraft": "1.7.10",
+                "hasJson": true,
+                "canUpdate": true,
+                "isRecommended": true,
+                "isDev": false
+            },
             {
                 "version": "3.1",
                 "minecraft": "1.7.10",
@@ -6169,7 +6022,7 @@
     },
     {
         "id": 70,
-        "position": 90,
+        "position": 103,
         "name": "XarWorld",
         "type": "private",
         "devVersions": [
@@ -6237,7 +6090,7 @@
     },
     {
         "id": 71,
-        "position": 33,
+        "position": 32,
         "name": "Vanilla Minecraft Alpha/Beta",
         "type": "public",
         "devVersions": [
@@ -6733,7 +6586,7 @@
     },
     {
         "id": 72,
-        "position": 110,
+        "position": 111,
         "name": "6d Gamers",
         "type": "private",
         "devVersions": [],
@@ -6748,7 +6601,7 @@
     },
     {
         "id": 74,
-        "position": 85,
+        "position": 63,
         "name": "OverLoad Lite",
         "type": "semipublic",
         "code": "e40bf9e894d80604c794cc055b46282a",
@@ -6781,7 +6634,7 @@
     },
     {
         "id": 75,
-        "position": 111,
+        "position": 114,
         "name": "ICEPack",
         "type": "private",
         "devVersions": [
@@ -6909,7 +6762,7 @@
     },
     {
         "id": 76,
-        "position": 38,
+        "position": 39,
         "name": "Gult's Gorge",
         "type": "semipublic",
         "code": "ecbf301bc11d0bee0a689661aab41d03",
@@ -6917,12 +6770,20 @@
             {
                 "version": "dev",
                 "minecraft": "1.7.10",
-                "hash": "66407bd82ad19b8178644bceec11d603",
+                "hash": "878301414281bcb6fbf8109841cf3560",
                 "hasJson": false,
                 "isDev": true
             }
         ],
         "versions": [
+            {
+                "version": "1.7.0",
+                "minecraft": "1.7.10",
+                "hasJson": true,
+                "canUpdate": true,
+                "isRecommended": true,
+                "isDev": false
+            },
             {
                 "version": "1.6.0a",
                 "minecraft": "1.7.10",
@@ -7485,7 +7346,7 @@
     },
     {
         "id": 79,
-        "position": 113,
+        "position": 110,
         "name": "Nameless Community Server Pack",
         "type": "private",
         "devVersions": [
@@ -7602,7 +7463,7 @@
     },
     {
         "id": 81,
-        "position": 57,
+        "position": 66,
         "name": "Digital Reality",
         "type": "private",
         "devVersions": [
@@ -7674,7 +7535,7 @@
     },
     {
         "id": 82,
-        "position": 102,
+        "position": 105,
         "name": "Porcupine Teatime",
         "type": "private",
         "devVersions": [
@@ -7857,7 +7718,7 @@
     },
     {
         "id": 83,
-        "position": 47,
+        "position": 44,
         "name": "Psytech",
         "type": "semipublic",
         "code": "b0cec777abe302c40f5696eab5de8e45",
@@ -7921,7 +7782,7 @@
     },
     {
         "id": 84,
-        "position": 104,
+        "position": 85,
         "name": "Rebranded",
         "type": "private",
         "devVersions": [
@@ -8102,7 +7963,7 @@
     },
     {
         "id": 86,
-        "position": 106,
+        "position": 107,
         "name": "XTech",
         "type": "private",
         "devVersions": [
@@ -8229,7 +8090,7 @@
     },
     {
         "id": 87,
-        "position": 105,
+        "position": 88,
         "name": "NerdCraft",
         "type": "private",
         "devVersions": [
@@ -8269,7 +8130,7 @@
     },
     {
         "id": 88,
-        "position": 101,
+        "position": 148,
         "name": "Vanilla+",
         "type": "semipublic",
         "code": "4cd3d2a74495abc112e06adae1844b80",
@@ -8300,7 +8161,7 @@
     },
     {
         "id": 90,
-        "position": 94,
+        "position": 149,
         "name": "MaltyCraft",
         "type": "semipublic",
         "code": "bdc31253f404dde2f88da2ddc11801b8",
@@ -8372,7 +8233,7 @@
     },
     {
         "id": 91,
-        "position": 137,
+        "position": 190,
         "name": "Gruntcraft",
         "type": "private",
         "devVersions": [
@@ -8508,7 +8369,7 @@
     },
     {
         "id": 94,
-        "position": 147,
+        "position": 189,
         "name": "UniVerse",
         "type": "private",
         "devVersions": [
@@ -8554,7 +8415,7 @@
     },
     {
         "id": 98,
-        "position": 146,
+        "position": 191,
         "name": "Omnius Pack",
         "type": "private",
         "devVersions": [
@@ -8594,7 +8455,7 @@
     },
     {
         "id": 99,
-        "position": 188,
+        "position": 192,
         "name": "Silvania Studios Beta",
         "type": "private",
         "devVersions": [
@@ -8617,7 +8478,7 @@
     },
     {
         "id": 100,
-        "position": 41,
+        "position": 53,
         "name": "DNS Toaster Edition",
         "type": "semipublic",
         "code": "2a8fab074793ee27c372198bdaf9a92d",
@@ -8674,7 +8535,7 @@
     },
     {
         "id": 101,
-        "position": 66,
+        "position": 193,
         "name": "Volutua - Ultimate Edition",
         "type": "private",
         "devVersions": [
@@ -8823,7 +8684,7 @@
     },
     {
         "id": 102,
-        "position": 193,
+        "position": 188,
         "name": "SimplyAussie's Private Server Pack",
         "type": "private",
         "devVersions": [],
@@ -8838,7 +8699,7 @@
     },
     {
         "id": 104,
-        "position": 192,
+        "position": 187,
         "name": "LezCraft",
         "type": "private",
         "devVersions": [
@@ -8933,7 +8794,7 @@
     },
     {
         "id": 105,
-        "position": 187,
+        "position": 182,
         "name": "Space Magic",
         "type": "semipublic",
         "code": "7b7459e76fa39cd27590ca80215347fd",
@@ -8966,7 +8827,7 @@
     },
     {
         "id": 106,
-        "position": 186,
+        "position": 181,
         "name": "VizionPack",
         "type": "semipublic",
         "code": "b2e70bc70ca07f97f1b1376020e45b06",
@@ -9030,7 +8891,7 @@
     },
     {
         "id": 107,
-        "position": 29,
+        "position": 27,
         "name": "Mc-Reborn",
         "type": "public",
         "devVersions": [
@@ -9069,7 +8930,7 @@
             {
                 "version": "devBuild1710",
                 "minecraft": "1.7.10",
-                "hash": "8b5f9e41f8fedcd827e33e3306fcbdff",
+                "hash": "ea823e1f60bb50f19500b78cd638b21d",
                 "hasJson": false,
                 "isDev": true
             },
@@ -9089,6 +8950,22 @@
             }
         ],
         "versions": [
+            {
+                "version": "2.2.2B",
+                "minecraft": "1.7.10",
+                "hasJson": true,
+                "canUpdate": true,
+                "isRecommended": true,
+                "isDev": false
+            },
+            {
+                "version": "2.2.2A",
+                "minecraft": "1.7.10",
+                "hasJson": true,
+                "canUpdate": true,
+                "isRecommended": true,
+                "isDev": false
+            },
             {
                 "version": "2.2.2",
                 "minecraft": "1.7.10",
@@ -9324,7 +9201,7 @@
     },
     {
         "id": 109,
-        "position": 182,
+        "position": 186,
         "name": "Mc-Reborn - Bit Edition",
         "type": "private",
         "devVersions": [],
@@ -9339,7 +9216,7 @@
     },
     {
         "id": 110,
-        "position": 183,
+        "position": 185,
         "name": "DarkenMoon's Private SMP pack",
         "type": "private",
         "devVersions": [],
@@ -9394,7 +9271,7 @@
     },
     {
         "id": 112,
-        "position": 184,
+        "position": 196,
         "name": "PimpCity",
         "type": "private",
         "devVersions": [
@@ -9522,7 +9399,7 @@
     },
     {
         "id": 113,
-        "position": 194,
+        "position": 206,
         "name": "DarkActiveTEK",
         "type": "private",
         "devVersions": [
@@ -9730,7 +9607,7 @@
     },
     {
         "id": 115,
-        "position": 195,
+        "position": 205,
         "name": "KZL Outpost",
         "type": "private",
         "devVersions": [],
@@ -9745,7 +9622,7 @@
     },
     {
         "id": 116,
-        "position": 205,
+        "position": 207,
         "name": "Reflex Gaming",
         "type": "private",
         "devVersions": [
@@ -9832,7 +9709,7 @@
     },
     {
         "id": 117,
-        "position": 204,
+        "position": 208,
         "name": "TAS Craft",
         "type": "private",
         "devVersions": [
@@ -9864,7 +9741,7 @@
     },
     {
         "id": 118,
-        "position": 206,
+        "position": 210,
         "name": "PixelPack",
         "type": "private",
         "devVersions": [
@@ -9887,7 +9764,7 @@
     },
     {
         "id": 119,
-        "position": 84,
+        "position": 209,
         "name": "Absolute Zero",
         "type": "private",
         "devVersions": [
@@ -9998,7 +9875,7 @@
     },
     {
         "id": 121,
-        "position": 207,
+        "position": 204,
         "name": "McVenom",
         "type": "private",
         "devVersions": [
@@ -10030,7 +9907,7 @@
     },
     {
         "id": 122,
-        "position": 210,
+        "position": 203,
         "name": "Maximus",
         "type": "private",
         "devVersions": [
@@ -10053,7 +9930,7 @@
     },
     {
         "id": 123,
-        "position": 209,
+        "position": 81,
         "name": "DemonicCraft",
         "type": "semipublic",
         "code": "d6cee50478dde6b3b47394e47d643b53",
@@ -10069,7 +9946,7 @@
     },
     {
         "id": 126,
-        "position": 208,
+        "position": 197,
         "name": "Technomage Pack",
         "type": "private",
         "devVersions": [],
@@ -10084,7 +9961,7 @@
     },
     {
         "id": 127,
-        "position": 203,
+        "position": 199,
         "name": "Minimatech",
         "type": "private",
         "devVersions": [
@@ -10107,7 +9984,7 @@
     },
     {
         "id": 130,
-        "position": 73,
+        "position": 75,
         "name": "StellarCraft core",
         "type": "semipublic",
         "code": "60e9264991783b41b262a058890e2df7",
@@ -10268,7 +10145,7 @@
     },
     {
         "id": 131,
-        "position": 197,
+        "position": 202,
         "name": "Feed The Darkhax",
         "type": "private",
         "devVersions": [
@@ -10291,7 +10168,7 @@
     },
     {
         "id": 132,
-        "position": 79,
+        "position": 86,
         "name": "GoreaCraft",
         "type": "semipublic",
         "code": "e9502c97689c621d646d7d6da6dd90a0",
@@ -10388,7 +10265,7 @@
     },
     {
         "id": 135,
-        "position": 37,
+        "position": 35,
         "name": "YouCraft Modded Server",
         "type": "semipublic",
         "code": "0f2831a2485c5dbfcb0feeb483d9815a",
@@ -10396,12 +10273,44 @@
             {
                 "version": "dev",
                 "minecraft": "1.7.10",
-                "hash": "5bfc775882ff27385d6d2a20a217afd7",
+                "hash": "1d188a8a531b32cec9c19b572701b8a3",
                 "hasJson": false,
                 "isDev": true
             }
         ],
         "versions": [
+            {
+                "version": "12.03",
+                "minecraft": "1.7.10",
+                "hasJson": true,
+                "canUpdate": true,
+                "isRecommended": true,
+                "isDev": false
+            },
+            {
+                "version": "12.02",
+                "minecraft": "1.7.10",
+                "hasJson": true,
+                "canUpdate": true,
+                "isRecommended": true,
+                "isDev": false
+            },
+            {
+                "version": "12.01",
+                "minecraft": "1.7.10",
+                "hasJson": true,
+                "canUpdate": true,
+                "isRecommended": true,
+                "isDev": false
+            },
+            {
+                "version": "12.00",
+                "minecraft": "1.7.10",
+                "hasJson": true,
+                "canUpdate": true,
+                "isRecommended": true,
+                "isDev": false
+            },
             {
                 "version": "11.32",
                 "minecraft": "1.7.10",
@@ -10429,7 +10338,7 @@
     },
     {
         "id": 136,
-        "position": 199,
+        "position": 179,
         "name": "BusinessElite",
         "type": "semipublic",
         "code": "1dd2a47590928fec55958daa0d9782a0",
@@ -10502,7 +10411,7 @@
     },
     {
         "id": 139,
-        "position": 71,
+        "position": 54,
         "name": "Tech Insomnia",
         "type": "private",
         "devVersions": [
@@ -10621,7 +10530,7 @@
     },
     {
         "id": 141,
-        "position": 200,
+        "position": 157,
         "name": "Era5 AIO",
         "type": "private",
         "devVersions": [
@@ -10835,7 +10744,7 @@
     },
     {
         "id": 144,
-        "position": 178,
+        "position": 160,
         "name": "KoT",
         "type": "private",
         "devVersions": [
@@ -10923,7 +10832,7 @@
     },
     {
         "id": 145,
-        "position": 157,
+        "position": 162,
         "name": "Bob's Pack",
         "type": "private",
         "devVersions": [],
@@ -10938,7 +10847,7 @@
     },
     {
         "id": 147,
-        "position": 156,
+        "position": 161,
         "name": "RAC PACK",
         "type": "private",
         "devVersions": [
@@ -11130,7 +11039,7 @@
     },
     {
         "id": 148,
-        "position": 158,
+        "position": 156,
         "name": "xCraft",
         "type": "private",
         "devVersions": [],
@@ -11145,7 +11054,7 @@
     },
     {
         "id": 150,
-        "position": 159,
+        "position": 155,
         "name": "Magic&Technic",
         "type": "private",
         "devVersions": [
@@ -11191,7 +11100,7 @@
     },
     {
         "id": 151,
-        "position": 161,
+        "position": 150,
         "name": "The Gluttony Modpack",
         "type": "private",
         "devVersions": [
@@ -11295,7 +11204,7 @@
     },
     {
         "id": 159,
-        "position": 155,
+        "position": 152,
         "name": "Bioman's Tech Mods",
         "type": "private",
         "devVersions": [
@@ -11359,7 +11268,7 @@
     },
     {
         "id": 162,
-        "position": 149,
+        "position": 153,
         "name": "EnderPack",
         "type": "semipublic",
         "code": "4ff8c40cb0a937beea0dcbce5035f380",
@@ -11375,7 +11284,7 @@
     },
     {
         "id": 163,
-        "position": 56,
+        "position": 55,
         "name": "DonkeyPack",
         "type": "semipublic",
         "code": "9443b0fceb8c03b6a514a706ea69df0b",
@@ -11453,7 +11362,7 @@
     },
     {
         "id": 164,
-        "position": 150,
+        "position": 164,
         "name": "The jordonsgaming pack",
         "type": "private",
         "devVersions": [
@@ -11483,7 +11392,7 @@
     },
     {
         "id": 165,
-        "position": 151,
+        "position": 174,
         "name": "Play Zongu",
         "type": "private",
         "devVersions": [],
@@ -11505,7 +11414,7 @@
             {
                 "version": "dev-simple-1.7.10",
                 "minecraft": "1.7.10",
-                "hash": "ba898860fdcbbbbe35b28ad96747b65a",
+                "hash": "d911062a99af0f4bb056b50fe881c9c1",
                 "hasJson": false,
                 "isDev": true
             },
@@ -11539,6 +11448,14 @@
             }
         ],
         "versions": [
+            {
+                "version": "3.3-3.3.8",
+                "minecraft": "1.7.10",
+                "hasJson": true,
+                "canUpdate": true,
+                "isRecommended": true,
+                "isDev": false
+            },
             {
                 "version": "3.3-3.3.7",
                 "minecraft": "1.7.10",
@@ -11774,7 +11691,7 @@
     },
     {
         "id": 168,
-        "position": 40,
+        "position": 38,
         "name": "Monumental",
         "type": "semipublic",
         "code": "913a3f0798a8dc326345303f3883491b",
@@ -12126,7 +12043,7 @@
     },
     {
         "id": 173,
-        "position": 83,
+        "position": 176,
         "name": "Advanced Ages",
         "type": "private",
         "devVersions": [
@@ -12250,7 +12167,7 @@
     },
     {
         "id": 175,
-        "position": 163,
+        "position": 177,
         "name": "ancient-pack",
         "type": "private",
         "devVersions": [
@@ -12329,7 +12246,7 @@
     },
     {
         "id": 178,
-        "position": 173,
+        "position": 172,
         "name": "Technation",
         "type": "private",
         "devVersions": [
@@ -12361,7 +12278,7 @@
     },
     {
         "id": 179,
-        "position": 172,
+        "position": 171,
         "name": "MineLand ModPack",
         "type": "private",
         "devVersions": [
@@ -12455,7 +12372,7 @@
     },
     {
         "id": 180,
-        "position": 174,
+        "position": 166,
         "name": "Mashup Madness",
         "type": "private",
         "devVersions": [
@@ -12492,7 +12409,7 @@
     },
     {
         "id": 181,
-        "position": 70,
+        "position": 73,
         "name": "Strawberry Vanilla Pack ",
         "type": "public",
         "devVersions": [
@@ -12529,7 +12446,7 @@
     },
     {
         "id": 182,
-        "position": 177,
+        "position": 167,
         "name": "Cobragaming Network Pack",
         "type": "private",
         "devVersions": [
@@ -12577,7 +12494,7 @@
     },
     {
         "id": 183,
-        "position": 176,
+        "position": 168,
         "name": "ELEVATED",
         "type": "private",
         "devVersions": [
@@ -12654,7 +12571,7 @@
     },
     {
         "id": 184,
-        "position": 18,
+        "position": 17,
         "name": "Vanilla Overhaul",
         "type": "public",
         "devVersions": [
@@ -12782,7 +12699,7 @@
     },
     {
         "id": 185,
-        "position": 170,
+        "position": 169,
         "name": "Turtlepack 9000",
         "type": "private",
         "devVersions": [
@@ -12836,7 +12753,7 @@
     },
     {
         "id": 187,
-        "position": 165,
+        "position": 118,
         "name": "KrisCraft",
         "type": "private",
         "devVersions": [
@@ -12868,7 +12785,7 @@
     },
     {
         "id": 189,
-        "position": 164,
+        "position": 165,
         "name": "GuyCraft",
         "type": "private",
         "devVersions": [],
@@ -12929,16 +12846,16 @@
         "type": "public",
         "devVersions": [
             {
-                "version": "devSF2.Beta1",
+                "version": "devSF2.Beta2.1",
                 "minecraft": "1.7.10",
-                "hash": "29bbf342811bcf687614c31e9bc37743",
+                "hash": "20f47a5f7ff5c65ebf2e28840577a64b",
                 "hasJson": false,
                 "isDev": true
             },
             {
-                "version": "dev",
-                "minecraft": "1.6.4",
-                "hash": "639f3150b56d9afe23870149d35bb8f0",
+                "version": "devSF2.Beta1.3",
+                "minecraft": "1.7.10",
+                "hash": "8aeef4734df7a68f33a61c16ca5ce792",
                 "hasJson": false,
                 "isDev": true
             }
@@ -12983,14 +12900,6 @@
                 "canUpdate": true,
                 "isRecommended": true,
                 "isDev": false
-            },
-            {
-                "version": "1.0.1",
-                "minecraft": "1.6.4",
-                "hasJson": true,
-                "canUpdate": true,
-                "isRecommended": true,
-                "isDev": false
             }
         ],
         "createServer": true,
@@ -13003,7 +12912,7 @@
     },
     {
         "id": 195,
-        "position": 167,
+        "position": 178,
         "name": "VoxelHorizon",
         "type": "private",
         "devVersions": [
@@ -13073,7 +12982,7 @@
     },
     {
         "id": 196,
-        "position": 65,
+        "position": 68,
         "name": "LeoCraft",
         "type": "private",
         "devVersions": [
@@ -13164,7 +13073,7 @@
     },
     {
         "id": 197,
-        "position": 168,
+        "position": 175,
         "name": "UnCharted",
         "type": "private",
         "devVersions": [
@@ -13196,7 +13105,7 @@
     },
     {
         "id": 198,
-        "position": 82,
+        "position": 72,
         "name": "OTEGamers Creative Pack",
         "type": "private",
         "devVersions": [
@@ -13243,7 +13152,7 @@
     },
     {
         "id": 200,
-        "position": 189,
+        "position": 69,
         "name": "TOUGH-TECH",
         "type": "semipublic",
         "code": "1ca797f8d2be40c18de9cd24016b26df",
@@ -13291,7 +13200,7 @@
     },
     {
         "id": 204,
-        "position": 169,
+        "position": 173,
         "name": "KnightPlayGaming ModPack",
         "type": "private",
         "devVersions": [
@@ -13330,7 +13239,7 @@
     },
     {
         "id": 206,
-        "position": 166,
+        "position": 163,
         "name": "World Of Gear mod pack",
         "type": "private",
         "devVersions": [],
@@ -13410,7 +13319,7 @@
     },
     {
         "id": 208,
-        "position": 175,
+        "position": 158,
         "name": "Gamehendge",
         "type": "private",
         "devVersions": [
@@ -13442,7 +13351,7 @@
     },
     {
         "id": 209,
-        "position": 152,
+        "position": 180,
         "name": "Test Pack",
         "type": "private",
         "devVersions": [
@@ -13465,7 +13374,7 @@
     },
     {
         "id": 212,
-        "position": 43,
+        "position": 60,
         "name": "Beyond Reality: Dimensions Collide",
         "type": "semipublic",
         "code": "7baa84bab20a1d38861f5fa389060978",
@@ -13473,7 +13382,7 @@
             {
                 "version": "devBRE",
                 "minecraft": "1.7.10",
-                "hash": "f114c88f5c9ad75273433a42cfb87cf8",
+                "hash": "8348e6656a0b0c5cdaa282aa60f8e155",
                 "hasJson": false,
                 "isDev": true
             },
@@ -13598,7 +13507,7 @@
     },
     {
         "id": 214,
-        "position": 153,
+        "position": 200,
         "name": "MineCraft Tas Pack",
         "type": "private",
         "devVersions": [
@@ -13661,7 +13570,7 @@
     },
     {
         "id": 218,
-        "position": 148,
+        "position": 198,
         "name": "OxperimentalCraft",
         "type": "private",
         "devVersions": [
@@ -13700,7 +13609,7 @@
     },
     {
         "id": 220,
-        "position": 201,
+        "position": 195,
         "name": "Dragons MagiTech",
         "type": "private",
         "devVersions": [
@@ -13723,7 +13632,7 @@
     },
     {
         "id": 223,
-        "position": 198,
+        "position": 183,
         "name": "Shape the World",
         "type": "private",
         "devVersions": [
@@ -13987,7 +13896,7 @@
     },
     {
         "id": 224,
-        "position": 202,
+        "position": 194,
         "name": "Industrial Empire",
         "type": "private",
         "devVersions": [
@@ -14019,7 +13928,7 @@
     },
     {
         "id": 225,
-        "position": 60,
+        "position": 58,
         "name": "The IronPack",
         "type": "semipublic",
         "code": "baafc48e0a7dfb08ef8252b6f781eb90",
@@ -14060,7 +13969,7 @@
     },
     {
         "id": 228,
-        "position": 52,
+        "position": 61,
         "name": "Yogscast Complete Private Pack",
         "type": "private",
         "devVersions": [
@@ -14292,7 +14201,7 @@
     },
     {
         "id": 231,
-        "position": 181,
+        "position": 106,
         "name": "Custom L.I.T.W",
         "type": "private",
         "devVersions": [
@@ -14324,7 +14233,7 @@
     },
     {
         "id": 232,
-        "position": 191,
+        "position": 104,
         "name": "KyPack",
         "type": "private",
         "devVersions": [
@@ -14416,7 +14325,7 @@
     },
     {
         "id": 233,
-        "position": 78,
+        "position": 67,
         "name": "CrystalVoid",
         "type": "private",
         "devVersions": [
@@ -14430,14 +14339,14 @@
             {
                 "version": "dev1.7",
                 "minecraft": "1.7.10",
-                "hash": "fa8d5b489db585685b5cbc590be6df5d",
+                "hash": "e07423285bd57785d02e258b07e81393",
                 "hasJson": false,
                 "isDev": true
             }
         ],
         "versions": [
             {
-                "version": "2.1.1.0",
+                "version": "2.1.5.1",
                 "minecraft": "1.7.10",
                 "hasJson": true,
                 "canUpdate": true,
@@ -14463,7 +14372,7 @@
     },
     {
         "id": 234,
-        "position": 190,
+        "position": 116,
         "name": "Omnius Pack Plus",
         "type": "private",
         "devVersions": [
@@ -14486,7 +14395,7 @@
     },
     {
         "id": 236,
-        "position": 103,
+        "position": 113,
         "name": "Amplified",
         "type": "private",
         "devVersions": [
@@ -14509,7 +14418,7 @@
     },
     {
         "id": 237,
-        "position": 107,
+        "position": 112,
         "name": "McGamerZone",
         "type": "private",
         "devVersions": [
@@ -14616,7 +14525,7 @@
     },
     {
         "id": 240,
-        "position": 45,
+        "position": 50,
         "name": "The District",
         "type": "private",
         "devVersions": [
@@ -14656,7 +14565,7 @@
     },
     {
         "id": 241,
-        "position": 100,
+        "position": 93,
         "name": "Occupational Hazard",
         "type": "private",
         "devVersions": [
@@ -14693,7 +14602,7 @@
     },
     {
         "id": 243,
-        "position": 91,
+        "position": 94,
         "name": "Beepercraft",
         "type": "private",
         "devVersions": [
@@ -14716,7 +14625,7 @@
     },
     {
         "id": 244,
-        "position": 89,
+        "position": 96,
         "name": "Galacti\u00b3",
         "type": "private",
         "devVersions": [
@@ -14790,7 +14699,7 @@
     },
     {
         "id": 246,
-        "position": 116,
+        "position": 102,
         "name": "SouthCraft",
         "type": "private",
         "devVersions": [
@@ -14873,7 +14782,7 @@
     },
     {
         "id": 247,
-        "position": 136,
+        "position": 117,
         "name": "OTEGamers PvP Pack",
         "type": "private",
         "devVersions": [],
@@ -14888,7 +14797,7 @@
     },
     {
         "id": 248,
-        "position": 76,
+        "position": 74,
         "name": "Ultimate Innovation",
         "type": "semipublic",
         "code": "08e2ab258d6848a5ef60e9c1d093920e",
@@ -14936,7 +14845,7 @@
     },
     {
         "id": 249,
-        "position": 115,
+        "position": 136,
         "name": "Dreampack",
         "type": "private",
         "devVersions": [
@@ -14966,7 +14875,7 @@
     },
     {
         "id": 250,
-        "position": 86,
+        "position": 82,
         "name": "FurryCraft Adventures",
         "type": "private",
         "devVersions": [
@@ -15022,7 +14931,7 @@
     },
     {
         "id": 251,
-        "position": 44,
+        "position": 48,
         "name": "Twisted Sin",
         "type": "semipublic",
         "code": "4db6390f60c7e903d7703746470ccd38",
@@ -15187,13 +15096,13 @@
         "leaderboards": true,
         "logging": true,
         "crashReports": false,
-        "description": "Are you ready to take a dive into the Twisted Sin world? The Twisted Sin modpack is the next step in modded minecraft survival, bringing us out of the 1.6.4 days and into the 1.7.2/1.7.10! If you are interested in dungeon crawling, difficult mobs, and strange dimensions, this pack is for you! Don't fear, it does contain some tech to help you automate and process your ores.\n\nWant to know more about the pack creator? Head on over to http://twitch.tv/MindlessPuppetz to see him stream or follow him on Twitter: @MindlessPuppetz\n\nPlease report errors for 1.7.2 here: https://github.com/MindlessPuppetz/1.7.2_TwistedSin/issues\nPlease report errors for 1.7.10 here: https://github.com/MindlessPuppetz/1.7.10_TwistedSin/issues",
+        "description": "Are you ready to embrace the rage? The Twisted Sin modpack is the next step in modded minecraft survival, bringing us out of the 1.6.4 days and into the 1.7.10! If you are interested in dungeon crawling, difficult mobs, and strange dimensions, this pack is for you! Don't fear, it does contain some tech to help you automate and process your ores.\r\n\r\nCreator: @MindlessPuppetz http://twitch.tv/mindlesspuppetz\r\nMaintainer: @Artdude543 http://soartex.net\r\nReleased: 7/16/14\r\n\r\nPlease report errors for 1.7.10 here: https://github.com/MindlessPuppetz/1.7.10_TwistedSin/issues",
         "supportURL": "http://twitter.com/TSSNSupport",
         "websiteURL": "http://twisted-sin.com/tsmodpack.php"
     },
     {
         "id": 252,
-        "position": 139,
+        "position": 140,
         "name": "Silvania: Deathmatch",
         "type": "semipublic",
         "code": "9f88d823a576a8e2e4af9bfb6ba27f65",
@@ -15209,7 +15118,7 @@
     },
     {
         "id": 253,
-        "position": 55,
+        "position": 49,
         "name": "Technicality",
         "type": "semipublic",
         "code": "09d0cb792b970c3d1ab9fcaea695fa65",
@@ -15281,7 +15190,7 @@
     },
     {
         "id": 254,
-        "position": 36,
+        "position": 37,
         "name": "RightToRebel",
         "type": "private",
         "devVersions": [
@@ -15567,7 +15476,7 @@
     },
     {
         "id": 255,
-        "position": 62,
+        "position": 71,
         "name": "Shenanigans",
         "type": "semipublic",
         "code": "ebd359f5f320d39c8efb29a43e25f0eb",
@@ -15600,7 +15509,7 @@
     },
     {
         "id": 256,
-        "position": 145,
+        "position": 146,
         "name": "Zack's Pack",
         "type": "public",
         "devVersions": [
@@ -15623,7 +15532,7 @@
     },
     {
         "id": 257,
-        "position": 143,
+        "position": 84,
         "name": "The Hawkpack",
         "type": "private",
         "devVersions": [
@@ -15679,7 +15588,7 @@
     },
     {
         "id": 258,
-        "position": 141,
+        "position": 142,
         "name": "Arcane Machinist's",
         "type": "public",
         "devVersions": [
@@ -15702,7 +15611,7 @@
     },
     {
         "id": 259,
-        "position": 17,
+        "position": 18,
         "name": "Karma",
         "type": "public",
         "devVersions": [
@@ -15838,7 +15747,7 @@
     },
     {
         "id": 260,
-        "position": 67,
+        "position": 83,
         "name": "EditCraft Cracked",
         "type": "private",
         "devVersions": [
@@ -15915,7 +15824,7 @@
     },
     {
         "id": 261,
-        "position": 120,
+        "position": 87,
         "name": "Kingdom of The Creeper Modpack",
         "type": "semipublic",
         "code": "c2ca04894511d7aa4aa517b482ccf103",
@@ -15963,7 +15872,7 @@
     },
     {
         "id": 262,
-        "position": 51,
+        "position": 62,
         "name": "GamerCraft",
         "type": "private",
         "devVersions": [
@@ -16010,10 +15919,17 @@
     },
     {
         "id": 263,
-        "position": 42,
+        "position": 45,
         "name": "BreakfastBuffet",
         "type": "private",
         "devVersions": [
+            {
+                "version": "dev-1.22.0",
+                "minecraft": "1.7.10",
+                "hash": "4613fe957a4ccd2b00d6e2b3fe218935",
+                "hasJson": false,
+                "isDev": true
+            },
             {
                 "version": "dev-1.21.0",
                 "minecraft": "1.7.10",
@@ -16072,7 +15988,7 @@
     },
     {
         "id": 264,
-        "position": 119,
+        "position": 132,
         "name": "ThePigHavenPack",
         "type": "private",
         "devVersions": [
@@ -16095,7 +16011,7 @@
     },
     {
         "id": 265,
-        "position": 118,
+        "position": 123,
         "name": "Build Guild",
         "type": "semipublic",
         "code": "f5c4e5a4d8a2ee4fbfe52163297776b1",
@@ -16111,14 +16027,14 @@
     },
     {
         "id": 266,
-        "position": 68,
+        "position": 41,
         "name": "YodaNetwork",
         "type": "private",
         "devVersions": [
             {
                 "version": "dev-2.0-ALPHA1",
                 "minecraft": "1.7.10",
-                "hash": "5d3561abce703435deed4e6274e154df",
+                "hash": "22bbc918f23efe2484719601e9d3cfbd",
                 "hasJson": false,
                 "isDev": true
             },
@@ -16167,7 +16083,7 @@
         ],
         "versions": [
             {
-                "version": "alpha4",
+                "version": "2.0-alpha1",
                 "minecraft": "1.7.10",
                 "hasJson": true,
                 "canUpdate": true,
@@ -16185,7 +16101,7 @@
     },
     {
         "id": 267,
-        "position": 69,
+        "position": 121,
         "name": "HideoutKingdom",
         "type": "private",
         "devVersions": [
@@ -16262,7 +16178,7 @@
     },
     {
         "id": 268,
-        "position": 117,
+        "position": 120,
         "name": "Hawking Madness",
         "type": "private",
         "devVersions": [],
@@ -16277,7 +16193,7 @@
     },
     {
         "id": 269,
-        "position": 122,
+        "position": 119,
         "name": "iJevin's LP Modpack",
         "type": "semipublic",
         "code": "9ead364b6eea2ffd1036e65cd97e0147",
@@ -16301,7 +16217,7 @@
     },
     {
         "id": 270,
-        "position": 129,
+        "position": 130,
         "name": "L33tPack",
         "type": "private",
         "devVersions": [
@@ -16349,7 +16265,7 @@
     },
     {
         "id": 271,
-        "position": 127,
+        "position": 131,
         "name": "Bo-Buddy-Bunkers",
         "type": "public",
         "devVersions": [
@@ -16372,14 +16288,14 @@
     },
     {
         "id": 272,
-        "position": 5,
+        "position": 3,
         "name": "Hermitcraft Modsauce",
         "type": "public",
         "devVersions": [
             {
                 "version": "dev_release_1010",
                 "minecraft": "1.7.10",
-                "hash": "5485a036aefff7f4ec82bebf1b08eebd",
+                "hash": "fee384005e6c52ce690bf0c29b3052fb",
                 "hasJson": false,
                 "isDev": true
             },
@@ -16393,7 +16309,7 @@
         ],
         "versions": [
             {
-                "version": "1.0.0.6",
+                "version": "1.0.1.0",
                 "minecraft": "1.7.10",
                 "hasJson": true,
                 "canUpdate": true,
@@ -16401,11 +16317,19 @@
                 "isDev": false
             },
             {
+                "version": "1.0.0.6",
+                "minecraft": "1.7.10",
+                "hasJson": true,
+                "canUpdate": true,
+                "isRecommended": false,
+                "isDev": false
+            },
+            {
                 "version": "1.0.0.5",
                 "minecraft": "1.7.10",
                 "hasJson": true,
                 "canUpdate": true,
-                "isRecommended": true,
+                "isRecommended": false,
                 "isDev": false
             },
             {
@@ -16451,11 +16375,18 @@
     },
     {
         "id": 273,
-        "position": 48,
+        "position": 42,
         "name": "DonutCraft",
         "type": "semipublic",
         "code": "3dea8195be2275ce241a0729ec1f2fd8",
         "devVersions": [
+            {
+                "version": "dev-1.2.0",
+                "minecraft": "1.7.10",
+                "hash": "9ac90d5b84a0831fc5febba6f4f4d273",
+                "hasJson": false,
+                "isDev": true
+            },
             {
                 "version": "dev-1.1.0b",
                 "minecraft": "1.7.10",
@@ -16487,11 +16418,19 @@
         ],
         "versions": [
             {
-                "version": "1.1.0b",
+                "version": "1.2.0",
                 "minecraft": "1.7.10",
                 "hasJson": true,
                 "canUpdate": true,
                 "isRecommended": true,
+                "isDev": false
+            },
+            {
+                "version": "1.1.0b",
+                "minecraft": "1.7.10",
+                "hasJson": true,
+                "canUpdate": false,
+                "isRecommended": false,
                 "isDev": false
             },
             {
@@ -16529,7 +16468,7 @@
     },
     {
         "id": 274,
-        "position": 53,
+        "position": 64,
         "name": "Kingdoms of Arimaethia",
         "type": "private",
         "devVersions": [
@@ -16566,6 +16505,13 @@
         "type": "public",
         "devVersions": [
             {
+                "version": "dev.Natural_Magic_v0.7.3",
+                "minecraft": "1.7.10",
+                "hash": "9eaf5f0922b698349aac30f7cf7f084a",
+                "hasJson": false,
+                "isDev": true
+            },
+            {
                 "version": "dev.Natural_Magic_v0.7.2.1",
                 "minecraft": "1.7.10",
                 "hash": "ce7875b7523412b34a3dd5e10362a907",
@@ -16582,7 +16528,7 @@
         ],
         "versions": [
             {
-                "version": "0.7.2.1",
+                "version": "0.7.3",
                 "minecraft": "1.7.10",
                 "hasJson": true,
                 "canUpdate": true,
@@ -16590,7 +16536,7 @@
                 "isDev": false
             },
             {
-                "version": "0.7.2",
+                "version": "0.7.2.1",
                 "minecraft": "1.7.10",
                 "hasJson": true,
                 "canUpdate": true,
@@ -16602,7 +16548,7 @@
         "leaderboards": true,
         "logging": true,
         "crashReports": false,
-        "description": "Natural Magic 1.7.10 by Lewis \"WTFGeeks!\" (Beta 0.7.2.1)\r\n\r\nIn a world of Magic and Adventure you choose what role you'll take! Harness the power of nature, become consumed in darkness or explore the land for prehistoric treasures. Your story awaits. \r\n\r\nNatural Magic is currently still under development, so expect changes in future updates.  This will include many more quests/lore being added.\r\n\r\nPlease backup worlds before updating.\r\n\r\nPlease report  here for any issues/suggestions - https://github.com/WTFGeeks/Natural-Magic/issues \r\n\r\nDesigned By Lewis \"WTFGeeks!\"\r\n\r\nYouTube - https://www.youtube.com/channel/UCBFiQsdlPYROelxYELr0usw\r\nTwitch - http://www.twitch.tv/wtfgeeks\r\nTwitter - https://twitter.com/Lewis_WTFGeeks\r\n\r\n\r\n\r\n\r\n",
+        "description": "Natural Magic 1.7.10 by Lewis \"WTFGeeks!\" (Beta 0.7.3)\r\n\r\nIn a world of Magic and Adventure you choose what role you'll take! Harness the power of nature, become consumed in darkness or explore the land for prehistoric treasures. Your story awaits. \r\n\r\nNatural Magic is currently still under development, so expect changes in future updates.  This will include many more quests/lore being added.\r\n\r\nPlease backup worlds before updating.\r\n\r\nPlease report  here for any issues/suggestions - https://github.com/WTFGeeks/Natural-Magic/issues \r\n\r\nChangelog - http://www.atlauncher.com/pack/NaturalMagic\r\n\r\nDesigned By Lewis \"WTFGeeks!\"\r\n\r\nYouTube - https://www.youtube.com/channel/UCBFiQsdlPYROelxYELr0usw\r\nTwitch - http://www.twitch.tv/wtfgeeks\r\nTwitter - https://twitter.com/Lewis_WTFGeeks\r\n\r\n\r\n\r\n\r\n",
         "supportURL": "https://github.com/WTFGeeks/Natural-Magic/issues",
         "websiteURL": "https://www.youtube.com/channel/UCBFiQsdlPYROelxYELr0usw"
     },
@@ -16640,7 +16586,7 @@
     },
     {
         "id": 277,
-        "position": 196,
+        "position": 201,
         "name": "Aether II Development Pack",
         "type": "private",
         "devVersions": [
@@ -16672,7 +16618,7 @@
     },
     {
         "id": 278,
-        "position": 87,
+        "position": 126,
         "name": "Zoopack",
         "type": "semipublic",
         "code": "cafa1e55284fb92411af5bc5ab81e520",
@@ -16787,7 +16733,7 @@
     },
     {
         "id": 280,
-        "position": 112,
+        "position": 92,
         "name": "Ashcraft Modpack",
         "type": "private",
         "devVersions": [
@@ -17019,7 +16965,7 @@
     },
     {
         "id": 281,
-        "position": 185,
+        "position": 108,
         "name": "Unity Builder",
         "type": "private",
         "devVersions": [
@@ -17042,7 +16988,7 @@
     },
     {
         "id": 282,
-        "position": 39,
+        "position": 40,
         "name": "Tetrachate",
         "type": "semipublic",
         "code": "c701565ecd2dc6f40f72b8a2a89a2d03",
@@ -17121,7 +17067,7 @@
     },
     {
         "id": 284,
-        "position": 171,
+        "position": 170,
         "name": "Sticky Piston Test Pack",
         "type": "private",
         "devVersions": [],
@@ -17136,7 +17082,7 @@
     },
     {
         "id": 285,
-        "position": 162,
+        "position": 70,
         "name": "ParadiseCraft",
         "type": "private",
         "devVersions": [
@@ -17183,19 +17129,27 @@
     },
     {
         "id": 286,
-        "position": 35,
+        "position": 36,
         "name": "Mech & Magic",
         "type": "private",
         "devVersions": [
             {
                 "version": "devMM",
                 "minecraft": "1.7.10",
-                "hash": "0c09527c287ce77350156a3a9e66561a",
+                "hash": "2fd5f1b2e3d0a60fb6bad82b29bd6c97",
                 "hasJson": false,
                 "isDev": true
             }
         ],
         "versions": [
+            {
+                "version": "2.2.13-1",
+                "minecraft": "1.7.10",
+                "hasJson": true,
+                "canUpdate": true,
+                "isRecommended": true,
+                "isDev": false
+            },
             {
                 "version": "2.2.13",
                 "minecraft": "1.7.10",
@@ -17321,21 +17275,21 @@
         "leaderboards": true,
         "logging": true,
         "crashReports": false,
-        "description": "Mech & Magic brings to you what we think is some of the best Mechanical mods paired with the best Magical mods. Slam em together and what do you get? A world full of wires, circuit boards, metals, and purple magical thingies! Best of all its 1.7.10.   To access the pack please fill in just your MC name at the link provided in the following post: http://secondarygaming.us/?page_id=43\n\nirc: irc.esper.net #secondarygaming\nteamspeak3: secondarygaming.us",
+        "description": "Mech & Magic brings to you what we think is some of the best Mechanical mods paired with the best Magical mods. Slam em together and what do you get? A world full of wires, circuit boards, metals, and purple magical thingies! Best of all its 1.7.10.   To access the pack please fill in just your MC name at the link provided in the following post: http://secondarygaming.us/?page_id=7\r\n\r\nirc: irc.esper.net #secondarygaming\r\nteamspeak3: secondarygaming.us",
         "supportURL": "http://secondarygaming.us",
         "websiteURL": "http://www.atlauncher.com/pack/MechMagic/"
     },
     {
         "id": 287,
-        "position": 160,
+        "position": 151,
         "name": "The Wounded Pack",
         "type": "semipublic",
         "code": "4c857c245bfceb5ebb0cbee401213a4f",
         "devVersions": [
             {
-                "version": "Beta_0.0.2",
+                "version": "Version_1.0.0",
                 "minecraft": "1.7.10",
-                "hash": "2244193f64254c70001a61c8ee7de3c0",
+                "hash": "42c4d916c36faffce710fe901c97bcf0",
                 "hasJson": false,
                 "isDev": true
             }
@@ -17358,12 +17312,20 @@
             {
                 "version": "dev-1.00",
                 "minecraft": "1.7.10",
-                "hash": "1041b3e417e1a38d71fe730f123431ad",
+                "hash": "0df116385b2ab6e7b2e9601b7c376011",
                 "hasJson": false,
                 "isDev": true
             }
         ],
         "versions": [
+            {
+                "version": "1.06",
+                "minecraft": "1.7.10",
+                "hasJson": true,
+                "canUpdate": true,
+                "isRecommended": true,
+                "isDev": false
+            },
             {
                 "version": "1.05e",
                 "minecraft": "1.7.10",
@@ -17415,7 +17377,7 @@
     },
     {
         "id": 289,
-        "position": 179,
+        "position": 159,
         "name": "Delusions of Adequacy",
         "type": "private",
         "devVersions": [
@@ -17438,7 +17400,7 @@
     },
     {
         "id": 290,
-        "position": 180,
+        "position": 184,
         "name": "Feed The Bees Swarm",
         "type": "semipublic",
         "code": "88338ccbdb4bc892273197da3925529d",
@@ -17469,7 +17431,7 @@
     },
     {
         "id": 291,
-        "position": 108,
+        "position": 109,
         "name": "Vanilla Flavored Survival",
         "type": "semipublic",
         "code": "27f08756f73a091da0c6692c8cd22724",
@@ -17485,7 +17447,7 @@
     },
     {
         "id": 292,
-        "position": 114,
+        "position": 115,
         "name": "Test Pack Please Ignore",
         "type": "public",
         "devVersions": [],
@@ -17500,7 +17462,7 @@
     },
     {
         "id": 293,
-        "position": 28,
+        "position": 33,
         "name": "Wyldcraft",
         "type": "semipublic",
         "code": "cf0cf3699f51f6e8c471aaa9ce45c877",
@@ -17508,12 +17470,36 @@
             {
                 "version": "dev_main",
                 "minecraft": "1.7.10",
-                "hash": "422e550ac5b963de8b87d695275ad635",
+                "hash": "b8ae1a35a281c0ecd5b1c56ea603bcb4",
                 "hasJson": false,
                 "isDev": true
             }
         ],
         "versions": [
+            {
+                "version": "v1.2.0b",
+                "minecraft": "1.7.10",
+                "hasJson": true,
+                "canUpdate": true,
+                "isRecommended": true,
+                "isDev": false
+            },
+            {
+                "version": "v1.2.0a",
+                "minecraft": "1.7.10",
+                "hasJson": true,
+                "canUpdate": true,
+                "isRecommended": true,
+                "isDev": false
+            },
+            {
+                "version": "v1.2.0",
+                "minecraft": "1.7.10",
+                "hasJson": true,
+                "canUpdate": true,
+                "isRecommended": true,
+                "isDev": false
+            },
             {
                 "version": "v1.1.1b",
                 "minecraft": "1.7.10",
@@ -17561,11 +17547,11 @@
         "crashReports": false,
         "description": "A pack focused on creativity and building, but still keeping the difficulty of survival minecraft. WyldCraft features mods made specifically for the pack by the WyldMods team. KitchenCraft, Custom Things, and ToolUtilities allow for that special custom feel. Built by the team over at http://www.twitch.tv/wyld and is the official pack for TwitchTV streamer, Wyld.\r\n",
         "supportURL": "http://github.com/wyldmods/WyldCraftIssues",
-        "websiteURL": "http://www.twitch.tv/wyld"
+        "websiteURL": "http://www.atlauncher.com/pack/Wyldcraft"
     },
     {
         "id": 294,
-        "position": 135,
+        "position": 138,
         "name": "Augment Adventures",
         "type": "private",
         "devVersions": [],
@@ -17580,7 +17566,7 @@
     },
     {
         "id": 295,
-        "position": 131,
+        "position": 143,
         "name": "TolkienCraft II",
         "type": "public",
         "devVersions": [],
@@ -17589,13 +17575,13 @@
         "leaderboards": true,
         "logging": true,
         "crashReports": false,
-        "description": "",
-        "supportURL": null,
-        "websiteURL": null
+        "description": "One ring to build them all\u2026.\r\n\r\nDraconis is in danger. You arrive just as the call for help is sent across the land by the king looking for able-bodied citizens to join the guard to help with monster attacks that are on the rise!\r\n\r\nJourney through a town that is thriving and interactive. Help the merchants out with tasks and slowly uncover the darker side of what is happening here and ultimately try to bring peace back to this troubled land.\r\n\r\nCombining CustomNPC\u2019s and HQM for a true MMO experience, you will talk to npc\u2019s, kill bosses and adventure in the land of draconis in ways you have not yet experienced in a modpack!\r\nCurrently the only modpack to utilize the customnpc mod AND HQM together and featured on the customnpc website!\r\n\r\nIn an homage to the world\u2019s of Tolkien(no ic2 here!) I have put together this modpack to bring back adventure to minecraft. Centered around a magic and low-tech theme, you can choose to become a farming magnate or travel to middle-earth and strive to be a powerful warrior or mage or even get married!\r\n\r\nThere is variety in the overworld as well! With Biome\u2019s \u2018O Plenty you will not only have a wide range of lands to visit and explore, but you will also have variety with Ars Magica, Roguelike Dungeons, and MineCraft Comes Alive. The adventuring has just begun!\r\n\r\nStill not enough? Not only will you have access to all the overworld biomes and features but with Witchery and Extra Utilities you will have access to exotic dimensions to explore as well!\r\n\r\nSo have fun and enjoy the Fantasy world of Middle-Earth!\r\n\r\n \r\n\r\n\u2026.and in the darkness mine them.\u200b",
+        "supportURL": "http://www.tolkiencraft.com/forums/",
+        "websiteURL": "http://www.tolkiencraft.com/"
     },
     {
         "id": 296,
-        "position": 128,
+        "position": 125,
         "name": "Omhz",
         "type": "semipublic",
         "code": "2051038e3851267a758e436661b91316",
@@ -17633,7 +17619,7 @@
     },
     {
         "id": 297,
-        "position": 126,
+        "position": 129,
         "name": "NAT-Pack",
         "type": "semipublic",
         "code": "6becf3190af058a7abe00f10b27a421b",
@@ -17649,7 +17635,7 @@
     },
     {
         "id": 298,
-        "position": 124,
+        "position": 128,
         "name": "A Digital World",
         "type": "private",
         "devVersions": [],
@@ -17664,7 +17650,7 @@
     },
     {
         "id": 299,
-        "position": 125,
+        "position": 127,
         "name": "The Scientist's Toolbox",
         "type": "semipublic",
         "code": "867748323b222a2e63666df4061a041b",
@@ -17672,7 +17658,7 @@
             {
                 "version": "dev-v3.1.0",
                 "minecraft": "1.7.10",
-                "hash": "373562d65cb54376dd9888be1fae60e2",
+                "hash": "93ebb35c22235dfe81338982482e8cda",
                 "hasJson": false,
                 "isDev": true
             }
@@ -17682,8 +17668,8 @@
         "leaderboards": true,
         "logging": true,
         "crashReports": false,
-        "description": "You are now in a world. A new world. Meaning new beginnings. This Modpack is all about Beginnings, Science and Convenience. The Scientist's Toolbox is a Modpack built for any adventure, any project and almost any activity desired by yourself. \r\n\r\nYour have a new world, laid out in front of you. You could Terraform the land using a variety of builders, magic tools, nukes and more. Or there is the more interesting option of making everything work in harmony. Automation is the name of the game. This Modpack has everything thought out for every decision you make. We even added a Quest Book for those New to Modding and more those who desire a build-up of adventure and tension.\r\n\r\nEnjoy yourself! Automate all the things!\r\n-StormyMode and The Toolbox Team :-)",
-        "supportURL": null,
-        "websiteURL": null
+        "description": "You are now in a world. A new world. Meaning new beginnings. This Modpack is all about Beginnings, Science and Convenience. The Scientist's Toolbox is a Modpack built for any adventure, any project and almost any activity desired by yourself. \r\n\r\nYour have a new world, laid out in front of you. You could Terraform the land using a variety of builders, magic tools, nukes and more. Or there is the more interesting option of making everything work in harmony. Automation is the name of the game. This Modpack has everything thought out for every decision you make. We even added a Quest Book for those New to Modding and more those who desire a build-up of adventure and tension.\r\n\r\nRecommended Settings:\r\n2GB RAM and 128mb PermGen\r\n\r\nEnjoy yourself! Automate all the things!\r\n-StormyMode and The Toolbox Team :-)",
+        "supportURL": "https://github.com/StormyMode/ToolboxModpack",
+        "websiteURL": "http://www.atlauncher.com/pack/TheScientistsToolbox"
     }
 ]
